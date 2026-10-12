@@ -1,0 +1,8 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local exports/logs (keep the intentionally versioned original SQL dump)
+*.log
